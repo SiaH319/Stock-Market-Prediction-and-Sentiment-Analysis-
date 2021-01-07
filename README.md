@@ -237,101 +237,26 @@ could be created for better data visualization.
 
 
 ### References
+##### Stock data
+
+- [Ford](https://ca.finance.yahoo.com/quote/F/history?p=F&.tsrc=fin-srch)
+- [Nissan](https://ca.finance.yahoo.com/quote/NSANY/history?period1=322718400&period2=1556337600&interval=1d&filter=history&frequency=1d)
+- [Tesla](https://ca.finance.yahoo.com/quote/TSLA/history?p=TSLA&.tsrc=fin-srch)
+##### Keras
+- [Keras Documentation](https://keras.io/getting-started/sequential-model-guide/)
+
+##### Scraping Instagram Hastags
+- [API](https://github.com/ScriptSmith/instaphyte)
+- [BeutifulSoup](https://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup)
+- [BeutifulSoup](https://qiita.com/piruty/items/d360f436d1b57cc9c980)
+- [Code for Scraping from Github](https://github.com/tomkdickinson/Instagram-Search-API-Python/blob/master/instagram_search.py)
+- [Data formatting] (https://stackabuse.com/how-to-format-dates-in-python/)
+
+##### Text Filtering
+- [non-aphabetic character](https://codereview.stackexchange.com/questions/191279/filter-out-non-alphabetic-characters-from-a-list-of-words)
+- [non-aphabetic character](https://stackoverflow.com/questions/3788870/how-to-check-if-a-word-is-an-english-word-with-python)
+- [unix-timestamp](https://stackoverflow.com/questions/7136385/calculate-day-number-from-an-unix-timestamp-in-a-math-way)
 
 
-[Stock data (Ford)](https://ca.finance.yahoo.com/quote/F/history?p=F&.tsrc=fin-srch
-)
-
-            Stock data 
-
-
-
--       
-https://ca.finance.yahoo.com/quote/F/history?p=F&.tsrc=fin-srch
-(Ford)
-
-
-
--       
-https://ca.finance.yahoo.com/quote/NSANY/history?period1=322718400&period2=1556337600&interval=1d&filter=history&frequency=1d (Nissan)
-
-
-
--       
-https://ca.finance.yahoo.com/quote/TSLA/history?p=TSLA&.tsrc=fin-srch
-(Tesla) 
-
-
-
-Keras 
-
-
-
--       
-https://keras.io/getting-started/sequential-model-guide/ (Keras Documentaion)
-
-
-
-Scraping
-Instagram Posts
-
-
-
--       
-https://github.com/ScriptSmith/instaphyte (API)
-
-
-
--       
-https://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup 
-
-
-
--       
-https://qiita.com/piruty/items/d360f436d1b57cc9c980 (BeautifulSoup)
-
-
-
--       
-https://github.com/tomkdickinson/Instagram-Search-API-Python/blob/master/instagram_search.py (Code on GitHub for scraping)
-
-
-
--       
-https://stackabuse.com/how-to-format-dates-in-python/ (Date
-formatting)
-
-
-
-Text Filtering
-
-
-
--       
-https://codereview.stackexchange.com/questions/191279/filter-out-non-alphabetic-characters-from-a-list-of-words (non-alphabetic
-character)
-
-
-
--       
-https://stackoverflow.com/questions/3788870/how-to-check-if-a-word-is-an-english-word-with-python (non-alphabetic
-character)
-
-
-
-Unix Calculation 
-
-
-
--       
-https://stackoverflow.com/questions/7136385/calculate-day-number-from-an-unix-timestamp-in-a-math-way (unix-timestamp)
-
-
-
-Sentiment Analysis
-
-
-
--       
-https://towardsdatascience.com/https-towardsdatascience-com-algorithmic-trading-using-sentiment-analysis-on-news-articles-83db77966704
-(nltk)
+##### Sentiment Analysis
+- [nltk](https://towardsdatascience.com/https-towardsdatascience-com-algorithmic-trading-using-sentiment-analysis-on-news-articles-83db77966704)
