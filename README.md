@@ -2,12 +2,12 @@
 ##### This project was done with @chihiroanihr under the guidance of professor R. Vincent in Winter 2019.
 
 ### Programming Techniques and Applications
-##### 1.     Manual for the Users
-###### 1-1.    Requirements:
+#### 1.     Manual for the Users
+##### 1-1.    Requirements:
 User should be able to run ipynb extension file using jupyter notebook with the following
 modules installed in order to run the program: numpy, bs4, datetime, enchant, instaphyte, keras, nltk, pandas, re, urllib 
 
-###### 1-2.    Operation Manual:
+##### 1-2.    Operation Manual:
 
 Given the date and name of the company, the program is designed to predict the stock market during the
 given time period and to analyze sentiment from the Instagram post containing
@@ -21,8 +21,8 @@ data, and sentiment scores during the given time period in a graph.
 
 
 
-##### 2.     Design Guide
-###### 2-1.    Stock Market Prediction
+#### 2.     Design Guide
+##### 2-1.    Stock Market Prediction
 
 The stock market is analyzed
 and predicted using LSTM (Long Short-Term Memory) model. Frist, Stock market
@@ -98,12 +98,11 @@ analysis of the corresponding dates.
 
 
 
-###### 2-2.    Sentiment Analysis
+##### 2-2.    Sentiment Analysis
 
 
 
-2.2.1.    
-Scraping
+###### 2.2.1.    Scraping
 
 
 
@@ -112,7 +111,7 @@ the name of the company are stored as csv file in sentiment_data folder, using i
 
 
 
-2.2.1.1. Scraping and Filtering Instagram Posts
+###### 2.2.1.1. Scraping and Filtering Instagram Posts
 
 
 
@@ -138,7 +137,7 @@ binary search method are implemented.
 
 
 
-2.2.1.2.Balancing the Number of Posts
+###### 2.2.1.2. Balancing the Number of Posts
 
 
 
@@ -179,7 +178,7 @@ hashtag, url of the individual post, number of likes and the ID of the poster.
 
 
 
-2.2.2. Analyzing Sentiment Data
+###### 2.2.2. Analyzing Sentiment Data
 
 
 
@@ -210,7 +209,7 @@ scores are normalized and stored in a list in the order of date.
 
 
 
-###### 2-3. Visualization of Data
+##### 2-3. Visualization of Data
 
 
 
