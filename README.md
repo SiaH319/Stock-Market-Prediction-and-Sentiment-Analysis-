@@ -226,10 +226,7 @@ could be in the same range as stock values by being multiplied by fit.
 
 ### Observation and Discussion 
 
-
-
-            It is observed that the sentiment score generally
-matches the stock data. However, due to the limited number of sentiment data,
+It is observed that the sentiment score generally matches the stock data. However, due to the limited number of sentiment data,
 the trends of sentiment score are not reliable. Also, On average, it takes
 1.30 minutes ~ 2 minutes to scrape 1000 posts since the program is dealing
 with massive amounts of data to scrape. For the future
@@ -239,14 +236,11 @@ data in consecutive days. Also, stock data scraping could be done and websites
 could be created for better data visualization. 
 
 
-
- 
-
-
-
 ### References
 
 
+[Stock data (Ford)](https://ca.finance.yahoo.com/quote/F/history?p=F&.tsrc=fin-srch
+)
 
             Stock data 
 
