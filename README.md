@@ -224,7 +224,7 @@ could be in the same range as stock values by being multiplied by fit.
 
 
 
-Observation and Discussion 
+### Observation and Discussion 
 
 
 
@@ -244,7 +244,7 @@ could be created for better data visualization.
 
 
 
-References
+### References
 
 
 
