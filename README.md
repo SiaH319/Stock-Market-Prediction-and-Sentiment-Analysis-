@@ -249,7 +249,7 @@ could be created for better data visualization.
 - [API](https://github.com/ScriptSmith/instaphyte)
 - [BeutifulSoup](https://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup)
 - [BeutifulSoup](https://qiita.com/piruty/items/d360f436d1b57cc9c980)
-- [Code for Scraping from Github](https://github.com/tomkdickinson/Instagram-Search-API-Python/blob/master/instagram_search.py)
+- [Code for Scraping from Github](https://github.com/tomkdickinson/Instagram-Search-API-Python)
 - [Data formatting] (https://stackabuse.com/how-to-format-dates-in-python/)
 
 ##### Text Filtering
