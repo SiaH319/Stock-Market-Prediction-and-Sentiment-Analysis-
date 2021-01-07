@@ -1,0 +1,14 @@
+1. open main.py file
+
+2. run main.py file
+
+3. the program will automatically save the result in your Scraping file.
+
+
+Å¶ Data_Obtained folder is what we have initially scraped 3 motor companies by obtaining 100000 posts from each hashtag.
+   These files in the Data_Obtained are what we have used for stock and sentiment analysis.
+
+IMPORTANT:
+ - The dates are indicated as ###### initially, so please enlarge the date column in csv file.
+ - If you would like to see the contents obtained, please enlarge the text column in csv file.
+HOWEVER, DO NOT SAVE THEM since it will lead to a text garbling
