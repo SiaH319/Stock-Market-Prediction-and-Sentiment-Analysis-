@@ -1,5 +1,5 @@
 # Stock-Market-and-Sentiment-Analysis-
-##### This project was done with @chihiroanihr under the guidance of professor R. Vincent in Winter 2019.
+##### This project was done with @chihiroanihr under the guidance of professor R. Vincent 
 
 ### Programming Techniques and Applications
 #### 1.     Manual for the Users
